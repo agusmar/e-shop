@@ -1,0 +1,9 @@
+.item {
+  background-color: white;
+  border-radius: 2px;
+  display:flex;
+}
+
+.img-container {
+  width: 40%;
+}
